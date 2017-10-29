@@ -8,3 +8,5 @@
 4. `remove_seq_from_list.py`: Remove sequences from a list by their IDs
 5. `arrange_gene_GO.py`: Arrange GO annotations to CSV format
 6. `ammend_GO_in_fasta.py`: Amend the description of sequences of fasta file from GO annotations
+
+:e-mail: shihab.hasan@uqconnect.edu.au
