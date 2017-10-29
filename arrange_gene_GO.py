@@ -4,7 +4,7 @@ inFileName=sys.argv[1]
 
 inFile=open(inFileName, "r")
 
-outFile=open(inFileName+"_arranged.txt", "w")
+outFile=open(inFileName+"_arranged.csv", "w")
 
 
 myDict={}
