@@ -9,4 +9,4 @@
 5. `arrange_gene_GO.py`: Arrange GO annotations to CSV format
 6. `ammend_GO_in_fasta.py`: Amend the description of sequences of fasta file from GO annotations
 
-:email: shihab.hasan@uqconnect.edu.au
+For further enquiries, please contact: :email: shihab.hasan@uqconnect.edu.au
